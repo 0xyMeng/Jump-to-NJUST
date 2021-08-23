@@ -1,0 +1,111 @@
+/* word模板的css文件 */
+@font-face 
+{
+    font-family: hei;
+    src: url(../fonts/my_font/hei.ttf)
+}
+@font-face 
+{
+    font-family: song;
+    src: url(../fonts/my_font/song.ttc);
+}
+
+.Title{
+    font-family: "Times New Roman",hei;
+    font-size: 36px;
+    padding-top: 2vh;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Name{
+    font-family: "Times New Roman",song;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Date{
+    font-family: "Times New Roman",song;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.Abstract{
+    font-family: "Times New Roman",hei;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.AbstractText{
+    margin-top:10px;
+    font-family: "Times New Roman",song;
+    font-size: 18px;
+    text-align: center;/*居中*/
+    text-align: justify;/*两端对齐*/
+    text-indent: 36px;
+    line-height: 1.5;
+}
+
+.Margins{
+    padding-left: 10%;
+    width: 80%;
+}
+
+.AbstractMargins{
+    padding-left: 6%;
+    width: 88%;
+    padding-bottom: 15px;
+}
+
+.Title1{
+    font-family: "Times New Roman",hei;
+    font-size: 22px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+
+.Title2{
+    font-family: "Times New Roman",hei;
+    font-size: 20px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+.BodyText{
+    font-family: "Times New Roman",song;
+    font-size: 18px;
+    text-align: Left;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    line-height: 27px;
+    column-count: 1;
+    text-indent: 36px
+}
+
+.BodyText2Col{
+    font-family: "Times New Roman",song;
+    font-size: 18px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 27px;
+    column-count: 2;
+}
+
+
+.Justified{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.footerSize{
+    height: 15vh;
+    width: 100%;
+}
