@@ -27,7 +27,7 @@ permalink: /导航
 - <a href="https://jwc.njust.edu.cn/" target="_blank">教务处首页</a>
 - <a href="http://lib.njust.edu.cn/" target="_blank">图书馆首页</a>
 
-
+- <a href="http://m.njust.edu.cn/portal/index.html" target="_blank">校园网登录</a>
 - <a href="http://ehall.njust.edu.cn/new/index.html" target="_blank">智慧理工登录</a>
 - <a href="http://202.119.81.113:8080/" target="_blank">本科教务登录</a>
 - <a href="http://gsmis.njust.edu.cn/" target="_blank">研究生教务登录</a>
