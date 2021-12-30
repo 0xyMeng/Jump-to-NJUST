@@ -34,7 +34,9 @@ permalink: /导航
 
 
 ### 常用网站
-(没有。后面加上)
+
+- <a href="https://xn--rlr66kq0bdb82ag2i8t7cqge3n1g.cn/course-materials-backup/" target="_blank">课程资源</a>
+
 
 ### 网站内容建议
 
